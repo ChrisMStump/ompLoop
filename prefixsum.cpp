@@ -75,6 +75,8 @@ int main (int argc, char* argv[]) {
   
   std::cerr<<elapsed_seconds.count()<<std::endl;
 
+/*
+  This is not needed for benching
   pr[0] =0;
   #pragma omp parallel for
   for(int i = 0; i < atoi(argv[1]); i++){
@@ -82,6 +84,7 @@ int main (int argc, char* argv[]) {
   } //Store the values into pr
 
   checkPrefixSumResult(pr, atoi(argv[1]));
+*/
   
   delete[] arr;
   delete[] pr;

@@ -113,7 +113,7 @@ int main (int argc, char* argv[]) {
   
   std::cerr<<elapsed_seconds.count()<<std::endl;
 
-  checkMergeSortResult (arr, atoi(argv[1]));
+  //checkMergeSortResult (arr, atoi(argv[1]));
   
   delete[] arr;
 
