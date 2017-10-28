@@ -1,0 +1,3 @@
+g++ -O3 -std=c++11 -g -fopenmp   -c -o numint.o numint.cpp
+g++ -fopenmp numint.o libintegrate.a libfunctions.a libgen.a  -o numint
+make: `numint_seq' is up to date.
