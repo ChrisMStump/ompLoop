@@ -1,0 +1,5 @@
+/var/spool/torque/mom_priv/jobs/3351.mba-m1.uncc.edu.SC: line 25: 164033 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/3351.mba-m1.uncc.edu.SC: line 25: 164065 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/3351.mba-m1.uncc.edu.SC: line 25: 164098 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/3351.mba-m1.uncc.edu.SC: line 25: 164137 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}
+/var/spool/torque/mom_priv/jobs/3351.mba-m1.uncc.edu.SC: line 25: 164169 Segmentation fault      (core dumped) ./mergesort $n $t > /dev/null 2> ${RESULTDIR}/mergesort_${n}_${t}

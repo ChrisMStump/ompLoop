@@ -1,0 +1,5 @@
+mergesort.o: In function `main':
+/home/user/Desktop/ompLoop/mergesort.cpp:100: undefined reference to `__cxa_throw_bad_array_new_length'
+collect2: error: ld returned 1 exit status
+make: *** [mergesort] Error 1
+         line 0: warning: Skipping data file with no valid points

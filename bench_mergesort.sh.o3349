@@ -1,0 +1,1 @@
+g++ -fopenmp mergesort.o libintegrate.a libfunctions.a libgen.a  -o mergesort

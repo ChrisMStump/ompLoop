@@ -1,0 +1,1 @@
+g++ -fopenmp prefixsum.o libintegrate.a libfunctions.a libgen.a  -o prefixsum

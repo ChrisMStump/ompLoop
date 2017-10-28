@@ -1,0 +1,2 @@
+make: `prefixsum' is up to date.
+g++ -fopenmp prefixsum_seq.o libintegrate.a libfunctions.a libgen.a  -o prefixsum_seq

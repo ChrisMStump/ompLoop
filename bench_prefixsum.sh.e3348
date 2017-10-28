@@ -1,0 +1,5 @@
+prefixsum.o: In function `main':
+/home/user/Desktop/ompLoop/prefixsum.cpp:44: undefined reference to `__cxa_throw_bad_array_new_length'
+collect2: error: ld returned 1 exit status
+make: *** [prefixsum] Error 1
+         line 0: warning: Skipping data file with no valid points
